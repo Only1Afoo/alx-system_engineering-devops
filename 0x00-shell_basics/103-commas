@@ -1,2 +1,2 @@
-#!/binbash
-ls -m
+#!/bin/bash
+ls -pamv
